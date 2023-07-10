@@ -15,7 +15,9 @@
 - [Desarrolladores Web Google 🇬🇧](https://developers.google.com/web)
 - [Web.dev 🇬🇧](https://web.dev/)
 - [htmlreference.io 🇬🇧](https://htmlreference.io/) 
--[Códigos ASCII - HTML](https://ascii.cl/es/codigos-html.htm)
+- [Códigos ASCII - HTML](https://ascii.cl/es/codigos-html.htm)
+- [CheatSheet (Chuleta) - HTML 5](https://i.emezeta.com/weblog/html5-cheatsheet/html5-cheatsheet-emezeta.pdf)
+
 
 ## Aprender acerca de una etiqueta nueva
 [htmlreference.io 🇬🇧](https://htmlreference.io/) Nos proporciona una visión colorista y sencilla de una etiqueta.
