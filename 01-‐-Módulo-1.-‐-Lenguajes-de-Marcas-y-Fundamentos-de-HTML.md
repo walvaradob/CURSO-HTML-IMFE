@@ -42,6 +42,11 @@ https://www.w3schools.com/html/html_links.asp
 - [Microsoft - Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Herramientas 
+
+### IDEs
+
+- https://www.notion.so/
+
 ### Visual Studio Code
 - [Visual Studio Code](https://code.visualstudio.com/)
 
