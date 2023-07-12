@@ -8,6 +8,7 @@
 
 - https://free-for.dev/#/
 - https://github.com/awesome-selfhosted/awesome-selfhosted#media-streaming---audio-streaming
+- https://dev.to/iamismile/web-development-resources-96
 
 ## Eventos
 - https://developer.mozilla.org/es/docs/Web/Events
