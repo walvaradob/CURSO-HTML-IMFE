@@ -6,6 +6,12 @@
 - https://www.w3schools.com/html/html_blocks.asp
 - https://developer.mozilla.org/es/docs/Glossary/Block-level_content
 
+## Elementos de Navegación
+
+![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/4f80d1a6-43eb-49c2-a190-477cba099141)
+
+- https://alebarbaja.medium.com/cuando-usar-main-section-article-header-footer-y-aside-en-el-html-2fbfc5898988
+
 ## Otros elementos
 
 - https://dev.to/kiranrajvjd/24-html-tags-you-may-not-know-37be
