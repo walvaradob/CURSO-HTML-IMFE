@@ -4,6 +4,11 @@
 ### Recursos
 - https://docs.github.com/es/get-started/quickstart/hello-world
 
+## Recursos WebDev
+
+- https://free-for.dev/#/
+- https://github.com/awesome-selfhosted/awesome-selfhosted#media-streaming---audio-streaming
+
 ## Eventos
 - https://developer.mozilla.org/es/docs/Web/Events
 - https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Events
