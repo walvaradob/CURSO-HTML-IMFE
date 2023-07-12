@@ -9,6 +9,10 @@
 
 - [https://validator.w3.org/](https://validator.w3.org/)
 
+## Creación de Github Pages
+
+- [https://kinsta.com/es/blog/github-pages/](https://kinsta.com/es/blog/github-pages/)
+
 ## Abreviaciones EMMET
 - [https://docs.emmet.io/](https://docs.emmet.io/)
 - [https://docs.emmet.io/abbreviations/syntax/](https://docs.emmet.io/abbreviations/syntax/)
