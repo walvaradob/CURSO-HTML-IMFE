@@ -1,5 +1,8 @@
 # HTML y XHTML. Lenguajes para la Web
 
+## XHTML
+ - [https://developer.mozilla.org/es/docs/Glossary/XHTML](https://developer.mozilla.org/es/docs/Glossary/XHTML)
+
 ## Abreviaciones EMMET
 - [https://docs.emmet.io/](https://docs.emmet.io/)
 - [https://docs.emmet.io/abbreviations/syntax/](https://docs.emmet.io/abbreviations/syntax/)
