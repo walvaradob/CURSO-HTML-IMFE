@@ -2,6 +2,7 @@
 
 ## XHTML
  - [https://developer.mozilla.org/es/docs/Glossary/XHTML](https://developer.mozilla.org/es/docs/Glossary/XHTML)
+- [https://es.wikipedia.org/wiki/XHTML](https://es.wikipedia.org/wiki/XHTML)
 
 ## Abreviaciones EMMET
 - [https://docs.emmet.io/](https://docs.emmet.io/)
