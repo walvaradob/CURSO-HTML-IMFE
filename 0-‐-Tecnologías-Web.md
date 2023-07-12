@@ -26,12 +26,13 @@
 - https://colorable.jxnblk.com/001366/5eff00
 
 
-Markdown
-[Markdown TOC](https://luciopaiva.com/markdown-toc/)
-[Markdown Emojis](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)
-[Stack Abuse Markdown](https://stackabuse.com/markdown-by-example/)
-[Markdown Guide.org](https://www.markdownguide.org/basic-syntax)
-[Youtube to Markdown](http://embedyoutube.org/)
+## Markdown
+- [Markdown TOC](https://luciopaiva.com/markdown-toc/)
+- [Markdown Emojis](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)
+- [Stack Abuse Markdown](https://stackabuse.com/markdown-by-example/)
+- [Markdown Guide.org](https://www.markdownguide.org/basic-syntax)
+- [Youtube to Markdown](http://embedyoutube.org/)
+
 ## Checklists
 - http://webaccessibilitychecklist.com/
 
