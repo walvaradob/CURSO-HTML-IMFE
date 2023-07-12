@@ -1,5 +1,10 @@
 # HTML y XHTML. Lenguajes para la Web
 
+## Abreviaciones EMMET
+- [https://docs.emmet.io/](https://docs.emmet.io/)
+- [https://docs.emmet.io/abbreviations/syntax/](https://docs.emmet.io/abbreviations/syntax/)
+
+## Código
 
 ``` html
 <!DOCTYPE html>
