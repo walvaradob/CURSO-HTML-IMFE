@@ -12,6 +12,7 @@
 - [https://docs.emmet.io/](https://docs.emmet.io/)
 - [https://docs.emmet.io/abbreviations/syntax/](https://docs.emmet.io/abbreviations/syntax/)
 - [https://code.visualstudio.com/docs/editor/emmet](https://code.visualstudio.com/docs/editor/emmet)
+- [https://www.freecodecamp.org/news/write-html-css-faster-with-emmet-cheat-codes/](https://www.freecodecamp.org/news/write-html-css-faster-with-emmet-cheat-codes/)
 
 ## Código
 
