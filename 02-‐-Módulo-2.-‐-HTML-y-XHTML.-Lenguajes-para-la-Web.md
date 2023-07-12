@@ -4,6 +4,10 @@
  - [https://developer.mozilla.org/es/docs/Glossary/XHTML](https://developer.mozilla.org/es/docs/Glossary/XHTML)
 - [https://es.wikipedia.org/wiki/XHTML](https://es.wikipedia.org/wiki/XHTML)
 
+## Validador
+
+- [https://validator.w3.org/](https://validator.w3.org/)
+
 ## Abreviaciones EMMET
 - [https://docs.emmet.io/](https://docs.emmet.io/)
 - [https://docs.emmet.io/abbreviations/syntax/](https://docs.emmet.io/abbreviations/syntax/)
