@@ -5,6 +5,12 @@
  - [https://developer.mozilla.org/es/docs/Glossary/XHTML](https://developer.mozilla.org/es/docs/Glossary/XHTML)
 - [https://es.wikipedia.org/wiki/XHTML](https://es.wikipedia.org/wiki/XHTML)
 
+## Viewport
+- https://desarrolloweb.com/articulos/etiqueta-meta-viewport.html
+- https://www.arsys.es/blog/viewport-diseno-responsive
+- https://www.w3schools.com/css/css_rwd_viewport.asp
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
+
 ## Validador
 
 - [https://validator.w3.org/](https://validator.w3.org/)
