@@ -1,6 +1,15 @@
 # HTML y XHTML. Lenguajes para la Web
 ![image](https://github.com/bjlanza/curso_imfe_php_mysql/assets/4384524/c1b5f7f7-46b5-4535-a921-af509f9935da)
 
+## Elementos de Bloque y Elementos de Línea
+
+- https://www.w3schools.com/html/html_blocks.asp
+- https://developer.mozilla.org/es/docs/Glossary/Block-level_content
+
+## Otros elementos
+
+- https://dev.to/kiranrajvjd/24-html-tags-you-may-not-know-37be
+
 ## XHTML
  - [https://developer.mozilla.org/es/docs/Glossary/XHTML](https://developer.mozilla.org/es/docs/Glossary/XHTML)
 - [https://es.wikipedia.org/wiki/XHTML](https://es.wikipedia.org/wiki/XHTML)
