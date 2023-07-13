@@ -1,5 +1,7 @@
 #  CSS - Hojas de Estilo 
 
+![image](https://github.com/bjlanza/curso_imfe_php_mysql/assets/4384524/c1b5f7f7-46b5-4535-a921-af509f9935da)
+
 - https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics
 - https://desarrolloweb.com/home/css
 - https://desarrolloweb.com/manuales/css3.html
@@ -8,12 +10,21 @@
 ## CSS
 - https://css-tricks.com/sass-vs-less/
 - https://htmlcheatsheet.com/css/
-
- 
+- http://www.csszengarden.com/
 
 
 ## Selectores CSS
+
+- [MDN Selectores](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors)
+- [Selectores W3org](https://www.w3.org/TR/2018/REC-selectors-3-20181106/)
+- [W3School Selectores](https://www.w3schools.com/cssref/css_selectors.asp)
+- [CSS Dinner - Fluke Out](https://flukeout.github.io/#)
+- [Código CSS Dinner - Github](https://github.com/flukeout/css-diner)
+- [Soluciones CSS Dinner](https://gist.github.com/chrisman/fcb0a88459cd98239dbe6d2d200b02d1)
+
+Unidades
 - https://css4-selectors.com/selectors/
+- https://www.w3schools.com/cssref/css_units.asp
 - [Nomenclatura BEM Modificador de Bloques de Elementos (Block Element Modifier)](https://webdesign.tutsplus.com/es/articles/an-introduction-to-the-bem-methodology--cms-19403)
 - https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
