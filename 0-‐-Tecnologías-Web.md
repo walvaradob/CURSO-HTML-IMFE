@@ -3,6 +3,7 @@
 ## Github
 ### Recursos
 - https://docs.github.com/es/get-started/quickstart/hello-world
+- https://www.youtube.com/watch?v=3GymExBkKjE
 
 ## Recursos WebDev
 
@@ -27,6 +28,7 @@
 - https://wave.webaim.org/
 - https://www.wuhcag.com/
 - https://web.dev/measure/
+- https://responsively.app/
 
 ## Contraste
 - https://contrast-ratio.com/
