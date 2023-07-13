@@ -16,6 +16,9 @@
 - https://javascript.info/bubbling-and-capturing
 - https://www.kuworking.com/blog/javascript-que-es-event-bubbling/
 
+## Cursos Extra
+-  https://www.udemy.com/courses/search/?duration=short&duration=medium&duration=long&lang=es&price=price-free&q=css+grid+flexbox&ratings=4.5&sort=relevance&src=sac
+
 ## Herramientas
 - [Validador W3.org](https://validator.w3.org/#validate_by_input)
 - [Lighthouse - Google](https://developers.google.com/web/tools/lighthouse)
