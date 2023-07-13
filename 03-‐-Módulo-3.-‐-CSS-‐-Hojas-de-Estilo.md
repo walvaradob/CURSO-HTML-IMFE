@@ -41,6 +41,8 @@
 - https://jonsuh.com/hamburgers/
 - https://getbootstrap.com/
 - https://materializecss.com/
+- https://bulma.io/
+- https://get.foundation/
 
 ## Animaciones CSS
 - https://www.w3schools.com/css/css3_animations.asp
