@@ -7,6 +7,7 @@
 - https://desarrolloweb.com/manuales/css3.html
 - https://www.w3schools.com/Css/
 - https://www.freecodecamp.org/espanol/learn/responsive-web-design/basic-css/
+- https://lenguajecss.com/css/
 
 
 ## CSS
