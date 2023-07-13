@@ -12,9 +12,11 @@
 
 ## CSS
 - https://css-tricks.com/sass-vs-less/
-- https://htmlcheatsheet.com/css/
 - http://www.csszengarden.com/
 
+## CheatSheet
+- https://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf
+- https://htmlcheatsheet.com/css/
 
 ## Selectores CSS
 
