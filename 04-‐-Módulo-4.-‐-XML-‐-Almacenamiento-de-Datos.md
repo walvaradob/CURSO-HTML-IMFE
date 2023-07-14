@@ -12,3 +12,7 @@
 - https://www.youtube.com/playlist?list=PLM-p96nOrGcYb96AMy3VdUN8fo-sVAx7K
 
 ![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/cb356207-b07d-466f-8a02-1cd2b562b7bd)
+
+## Herramientas
+### Extensión VSCode
+- https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
