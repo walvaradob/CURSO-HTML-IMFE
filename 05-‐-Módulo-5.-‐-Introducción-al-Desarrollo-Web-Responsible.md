@@ -1,1 +1,0 @@
-# Introducción al Desarrollo Web Responsible
