@@ -50,3 +50,12 @@
 ## Tipografía
 - https://medium.com/the-readability-group/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0
 - https://brailleinstitute.org/freefont
+
+
+## Glosario
+
+- https://es.wikipedia.org/wiki/ASCII
+- https://es.wikipedia.org/wiki/AJAX
+- https://es.wikipedia.org/wiki/Analizador_sint%C3%A1ctico
+- https://es.wikipedia.org/wiki/Simple_Object_Access_Protocol
+- https://es.wikipedia.org/wiki/Unicode
