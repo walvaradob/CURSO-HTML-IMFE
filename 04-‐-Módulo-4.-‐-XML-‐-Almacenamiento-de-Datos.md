@@ -11,6 +11,7 @@
 - https://www.um.es/linux/xml/ponencia/XML_paratodos.pdf
 - https://deim.urv.cat/~pedro.garcia/SOB/IntroXML.pdf
 - https://www.youtube.com/playlist?list=PLM-p96nOrGcYb96AMy3VdUN8fo-sVAx7K
+- https://learn.microsoft.com/es-es/dotnet/standard/data/xml/types-of-xml-nodes
 
 ![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/e97177df-88b9-4227-9ea5-e255dec4b4f0)
 
@@ -22,9 +23,13 @@
 ![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/6a1420af-9666-48b0-9e6e-7b001a5a0969)
 ![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/87c25221-93d5-46cb-b0f5-e44621047875)
 
+## XSLT
+
+- https://developer.mozilla.org/es/docs/Web/XSLT
+- https://www.tutorialspoint.com/xslt/xslt_template.htm
 
 ## Herramientas
-## Validadores
+### Validadores
 - https://codebeautify.org/xmlvalidator
 
 ### Visualizadores
