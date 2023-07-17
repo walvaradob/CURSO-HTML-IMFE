@@ -1,5 +1,7 @@
 # Introducción al Desarrollo Web Responsive
 
+![image](https://github.com/bjlanza/curso_imfe_php_mysql/assets/4384524/c1b5f7f7-46b5-4535-a921-af509f9935da)
+
 - https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design
 - https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects
 - https://www.w3schools.com/Css/css3_mediaqueries_ex.asp
