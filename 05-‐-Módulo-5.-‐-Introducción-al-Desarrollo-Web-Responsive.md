@@ -1,1 +1,24 @@
 # Introducción al Desarrollo Web Responsive
+
+- https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design
+- https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects
+- https://www.w3schools.com/Css/css3_mediaqueries_ex.asp
+- https://www.w3schools.com/Css/css_rwd_intro.asp
+- https://cssgridgarden.com/
+- https://flexboxfroggy.com/
+- https://openaccess.uoc.edu/bitstream/10609/141486/3/Tecnologias%20y%20herramientas%20para%20el%20desarrollo%20web_Modulo3_Responsive%20web%20design.pdf
+- https://nucba.gitbook.io/css-for-mr.-robot/fundamentos-2.0/el-modelo-de-la-caja
+
+## Tutoriales
+
+- https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer
+- https://www.freecodecamp.org/espanol/news/diseno-web-responsive-como-hacer-que-un-sitio-web-se-vea-bien-en-telefonos-y-tabletas/
+- https://www.freecodecamp.org/espanol/news/ejemplo-de-css-de-consulta-de-medios-ancho-de-pantalla-maximo-y-minimo-para-un-diseno-responsivo-para-dispositivos-moviles/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://css-tricks.com/all-about-floats/
+- https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://cssgrid.io/
+
+## Herramientas
+- https://www.freecodecamp.org/espanol/news/tutorial-de-imagenes-responsivas-en-css-como-hacer-que-las-imagenes-sean-responsivas-con-css/
+- https://www.w3schools.com/Css/css3_mediaqueries_ex.asphttps://www.w3schools.com/Css/css3_mediaqueries_ex.asp
