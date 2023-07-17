@@ -10,6 +10,9 @@
 - https://flexboxfroggy.com/
 - https://openaccess.uoc.edu/bitstream/10609/141486/3/Tecnologias%20y%20herramientas%20para%20el%20desarrollo%20web_Modulo3_Responsive%20web%20design.pdf
 - https://nucba.gitbook.io/css-for-mr.-robot/fundamentos-2.0/el-modelo-de-la-caja
+- https://webdesign.tutsplus.com/es/flexbox-vs-css-grid-which-should-you-use--cms-30184a
+- https://www.freecodecamp.org/espanol/news/flexbox-vs-grid-como-construir-los-layouts-mas-comunes/
+- https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/
 
 ## Tutoriales
 
