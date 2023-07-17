@@ -13,6 +13,15 @@
 
 ![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/cb356207-b07d-466f-8a02-1cd2b562b7bd)
 
+## DOM Tree 
+
+![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/6a1420af-9666-48b0-9e6e-7b001a5a0969)
+![image](https://github.com/bjlanza/curso_imfe_frontend/assets/4384524/87c25221-93d5-46cb-b0f5-e44621047875)
+
+
 ## Herramientas
+## Validadores
+- https://codebeautify.org/xmlvalidator
+
 ### Extensión VSCode
 - https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
