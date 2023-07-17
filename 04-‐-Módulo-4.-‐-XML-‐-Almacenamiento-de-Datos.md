@@ -27,5 +27,9 @@
 ## Validadores
 - https://codebeautify.org/xmlvalidator
 
+### Visualizadores
+- https://bioub.github.io/dom-visualizer/
+- https://jsonformatter.org/xml-parser
+
 ### Extensión VSCode
 - https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
