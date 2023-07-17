@@ -7,6 +7,7 @@
 - https://www.w3schools.com/xml/
 - https://developer.mozilla.org/es/docs/Web/XML/XML_introduction
 - https://www.abrirllave.com/xml/
+- https://www.xml.com/
 - https://www.um.es/linux/xml/ponencia/XML_paratodos.pdf
 - https://deim.urv.cat/~pedro.garcia/SOB/IntroXML.pdf
 - https://www.youtube.com/playlist?list=PLM-p96nOrGcYb96AMy3VdUN8fo-sVAx7K
