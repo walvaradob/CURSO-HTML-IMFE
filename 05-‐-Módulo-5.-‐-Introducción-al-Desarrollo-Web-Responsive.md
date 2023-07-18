@@ -24,6 +24,7 @@
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/all-about-floats/
 - https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://css-tricks.com/a-complete-guide-to-css-media-queries/
 - https://www.smashingmagazine.com/2023/07/writing-css-2023/
 - https://css-tricks.com/the-new-css-media-query-range-syntax/
 - https://cssgrid.io/
