@@ -59,3 +59,8 @@
 - https://es.wikipedia.org/wiki/Analizador_sint%C3%A1ctico
 - https://es.wikipedia.org/wiki/Simple_Object_Access_Protocol
 - https://es.wikipedia.org/wiki/Unicode
+
+## Otros Recursos Educativos
+
+- https://openaccess.uoc.edu/handle/10609/141486/?locale=es
+- https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom
