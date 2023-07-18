@@ -13,6 +13,8 @@
 - https://webdesign.tutsplus.com/es/flexbox-vs-css-grid-which-should-you-use--cms-30184a
 - https://www.freecodecamp.org/espanol/news/flexbox-vs-grid-como-construir-los-layouts-mas-comunes/
 - https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/
+- https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable
+- [Mobile First](https://www.lukew.com/ff/entry.asp?933)
 
 ## Tutoriales
 
@@ -22,10 +24,12 @@
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/all-about-floats/
 - https://css-tricks.com/snippets/css/complete-guide-grid/
+- https://www.smashingmagazine.com/2023/07/writing-css-2023/
+- https://css-tricks.com/the-new-css-media-query-range-syntax/
 - https://cssgrid.io/
+- https://www.freecodecamp.org/espanol/news/tutorial-de-imagenes-responsivas-en-css-como-hacer-que-las-imagenes-sean-responsivas-con-css/
 
 ## Herramientas
 
 - https://responsively.app/
-- https://www.freecodecamp.org/espanol/news/tutorial-de-imagenes-responsivas-en-css-como-hacer-que-las-imagenes-sean-responsivas-con-css/
-- https://www.w3schools.com/Css/css3_mediaqueries_ex.asp
+- https://necolas.github.io/normalize.css/
