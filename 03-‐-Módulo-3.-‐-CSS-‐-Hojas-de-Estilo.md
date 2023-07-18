@@ -60,6 +60,7 @@
 - https://codepen.io/scoooooooby/pen/pecdI
 - https://codepen.io/marianab/pen/XPOQaR
 - [Rick y Morty CSS](https://www.youtube.com/watch?v=ZWIgWulXQFg)
+- [Rick y Morty CSS - Codepen](https://codepen.io/manz/pen/JjEqVaB)
 
 ## Cursos
 
