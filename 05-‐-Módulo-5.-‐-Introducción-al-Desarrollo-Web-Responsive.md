@@ -25,5 +25,7 @@
 - https://cssgrid.io/
 
 ## Herramientas
+
+- https://responsively.app/
 - https://www.freecodecamp.org/espanol/news/tutorial-de-imagenes-responsivas-en-css-como-hacer-que-las-imagenes-sean-responsivas-con-css/
-- https://www.w3schools.com/Css/css3_mediaqueries_ex.asphttps://www.w3schools.com/Css/css3_mediaqueries_ex.asp
+- https://www.w3schools.com/Css/css3_mediaqueries_ex.asp
