@@ -1,6 +1,8 @@
 # HTML y XHTML. Lenguajes para la Web
 ![image](https://github.com/bjlanza/curso_imfe_php_mysql/assets/4384524/c1b5f7f7-46b5-4535-a921-af509f9935da)
 
+- https://lenguajehtml.com/html/
+
 ## Elementos de Bloque y Elementos de Línea
 
 - https://www.w3schools.com/html/html_blocks.asp
@@ -39,6 +41,12 @@
 - [https://docs.emmet.io/abbreviations/syntax/](https://docs.emmet.io/abbreviations/syntax/)
 - [https://code.visualstudio.com/docs/editor/emmet](https://code.visualstudio.com/docs/editor/emmet)
 - [https://www.freecodecamp.org/news/write-html-css-faster-with-emmet-cheat-codes/](https://www.freecodecamp.org/news/write-html-css-faster-with-emmet-cheat-codes/)
+
+## HTML Semántico
+
+- https://html.com/semantic-markup/
+- https://hackernoon.com/how-to-write-semantic-html-dkq3ulo
+- https://web.dev/learn/html/semantic-html/
 
 ## Código
 
