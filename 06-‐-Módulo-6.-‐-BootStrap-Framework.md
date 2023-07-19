@@ -5,7 +5,13 @@
 
 - https://getbootstrap.com/ 
 - https://www.w3schools.com/bootstrap5/index.php
+
+## Documentación BootStrap
+
 - https://getbootstrap.com/docs/5.0/getting-started/introduction/
+- https://getbootstrap.com/docs/5.0/layout/columns/
+- https://getbootstrap.com/docs/5.0/layout/breakpoints/
+- https://getbootstrap.com/docs/5.0/layout/columns/
 
 ## Sistema de Rejilla
 
@@ -27,3 +33,12 @@ Como se puede ver, un sistema de 12 columnas nos permite un mayor número de div
 - https://naps.com.mx/blog/sistema-de-reticulas-para-diseno-web/
 - https://medium.com/ux-ripley/la-importancia-de-las-grillas-en-dise%C3%B1o-web-y-ux-27abf06be8f
 - https://www.quackit.com/css/grid/examples/css_12_column_grid_examples.cfm  
+
+## Plantillas 
+
+- https://bootstrapmade.com/bootstrap-resume-cv-templates/
+
+## Frameworks alternativos
+
+- https://tailwindcss.com/
+- https://tailwindcss.com/docs/installation
