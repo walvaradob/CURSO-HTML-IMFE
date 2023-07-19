@@ -68,3 +68,8 @@
 
 - https://openaccess.uoc.edu/handle/10609/141486/?locale=es
 - https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom
+
+## Humor
+
+- https://www.instagram.com/reel/CtJ6ml9oUPs/
+- https://www.instagram.com/reel/CtjwfeLoaNk/
