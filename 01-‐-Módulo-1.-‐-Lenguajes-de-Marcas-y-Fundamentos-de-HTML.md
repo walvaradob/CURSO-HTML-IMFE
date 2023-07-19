@@ -61,3 +61,4 @@ Extensiones VS Code
 - [Live Server Ritwickdey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [LiveShare - Compartir Pantalla](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [CSS Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) https://docs.emmet.io/abbreviations/syntax/
+- [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
