@@ -43,6 +43,8 @@ https://www.w3schools.com/html/html_links.asp
 - [W3C School HTML 🇬🇧](https://www.w3schools.com/html/html_basic.asp)
 - [Google Activate 🇪🇸](https://learndigital.withgoogle.com/activate/courses)
 - [Microsoft - Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- https://www.theodinproject.com/
+- https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css
 
 ## Herramientas 
 
