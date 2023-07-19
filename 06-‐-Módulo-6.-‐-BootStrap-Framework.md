@@ -10,7 +10,7 @@
 ## Sistema de Rejilla
 
 
-El motivo es la mayor flexibilidad ajustada a la menor complejidad
+El motivo es la mayor flexibilidad ajustada a la menor complejidad  
 
 Hay que partir del punto de que el sistema de 12 columnas se trata de una convención, no de un estandar, por lo que puede haber sistemas que funcionen con otro número de columnas porque para ellos resulte más eficiente o porque se ajusta más a sus peculiaridades.  
 
@@ -22,7 +22,8 @@ Bootstrap inicialmente funcionaba con un sistema de 16 columnas, pero vieron que
 
 Como se puede ver, un sistema de 12 columnas nos permite un mayor número de divisores, por lo que podremos conseguir una mayor combinación de posibilidades, que al fin y al cabo es lo que se busca.  
 
-(Fuente - https://es.stackoverflow.com/posts/265411/revisions)
+(Fuente - https://es.stackoverflow.com/posts/265411/revisions)  
 
 - https://naps.com.mx/blog/sistema-de-reticulas-para-diseno-web/
 - https://medium.com/ux-ripley/la-importancia-de-las-grillas-en-dise%C3%B1o-web-y-ux-27abf06be8f
+- https://www.quackit.com/css/grid/examples/css_12_column_grid_examples.cfm  
