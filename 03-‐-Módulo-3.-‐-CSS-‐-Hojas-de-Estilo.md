@@ -13,6 +13,8 @@
 ## CSS
 - https://css-tricks.com/sass-vs-less/
 - http://www.csszengarden.com/
+- https://100dayscss.com/
+- https://cssreference.io/
 
 ## CheatSheet
 - https://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf
