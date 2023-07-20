@@ -80,6 +80,7 @@
 - https://es.wikipedia.org/wiki/AJAX
 - https://es.wikipedia.org/wiki/Analizador_sint%C3%A1ctico
 - https://es.wikipedia.org/wiki/Framework
+- https://webdesign.tutsplus.com/es/ventanas-modales-y-no-modales-en-diseno-web--webdesign-2282a
 - https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_contenidos
 - https://es.wikipedia.org/wiki/Simple_Object_Access_Protocol
 - https://es.wikipedia.org/wiki/Unicode
