@@ -42,6 +42,11 @@ Como se puede ver, un sistema de 12 columnas nos permite un mayor número de div
 
 - https://bootstrapmade.com/bootstrap-resume-cv-templates/
 
+## Ejemplos de Código
+
+- https://devsnap.me/bootstrap-modal-windows
+- https://bbbootstrap.com/snippets
+
 ## Frameworks alternativos
 
 - https://tailwindcss.com/
