@@ -89,6 +89,10 @@
 - https://openaccess.uoc.edu/handle/10609/141486/?locale=es
 - https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom
 
+## Recursos Educativos Generales
+- https://academy.hubspot.com/
+- https://learn.microsoft.com/es-es/users/cloudskillschallenge/collections/zkgzhgdd5613?WT.mc_id=cloudskillschallenge_9fdc6c5c-ea5e-46e4-97d6-2cbfa3603a73
+
 ## Humor
 
 - https://www.instagram.com/reel/CtJ6ml9oUPs/
