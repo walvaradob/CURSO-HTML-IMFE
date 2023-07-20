@@ -41,6 +41,7 @@ Como se puede ver, un sistema de 12 columnas nos permite un mayor número de div
 ## Plantillas 
 
 - https://bootstrapmade.com/bootstrap-resume-cv-templates/
+- https://themewagon.com/theme-framework/bootstrap-5/
 
 ## Ejemplos de Código
 
