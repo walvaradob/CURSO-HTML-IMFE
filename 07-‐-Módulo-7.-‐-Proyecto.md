@@ -11,6 +11,8 @@ https://desktop.github.com/
 - https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-new-repository
 - https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site
 - https://carlosher007.github.io/crear-pagina-web/#
+- https://developer.mozilla.org/es/docs/Learn/Common_questions/Tools_and_setup/Using_Github_pages
+- https://www.w3schools.com/git/git_github_pages.asp
 
 ## Plantillas CV
 
