@@ -108,3 +108,4 @@
 
 - https://blog.orange.es/consejos-y-trucos/que-son-las-licencias-de-software-y-que-tipos-hay/
 - https://es.wikipedia.org/wiki/Licencia_de_software
+- https://choosealicense.com/
