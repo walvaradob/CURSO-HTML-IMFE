@@ -103,3 +103,8 @@
 - https://www.youtube.com/watch?v=HpNeUTwcqU0
 - https://www.youtube.com/watch?v=K599i14mbtw
 - https://www.youtube.com/watch?v=YZ5tOe7y9x4
+
+## Licencias de Software
+
+- https://blog.orange.es/consejos-y-trucos/que-son-las-licencias-de-software-y-que-tipos-hay/
+- https://es.wikipedia.org/wiki/Licencia_de_software
